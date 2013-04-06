@@ -18,7 +18,7 @@
 {
     self = [super init];
     if (self) {
-        NSLog(@"Init call...");
+        
     }
     return self;
 }
